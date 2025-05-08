@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "224198280580",
+    "firebase_url": "https://cinemaappticket-default-rtdb.firebaseio.com",
+    "project_id": "cinemaappticket",
+    "storage_bucket": "cinemaappticket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224198280580:android:02543deda59aa16c69c9d1",
+        "android_client_info": {
+          "package_name": "com.example.book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6lYpa8zWIwaNI2GAw0sPPOZkpGhLgEW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224198280580:android:e0f639438fa4f6f069c9d1",
+        "android_client_info": {
+          "package_name": "com.example.cinemabookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6lYpa8zWIwaNI2GAw0sPPOZkpGhLgEW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224198280580:android:f0c3a6a22a966cc969c9d1",
+        "android_client_info": {
+          "package_name": "com.example.libercopia_bookstore_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6lYpa8zWIwaNI2GAw0sPPOZkpGhLgEW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224198280580:android:991163fc9543dc8469c9d1",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6lYpa8zWIwaNI2GAw0sPPOZkpGhLgEW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
