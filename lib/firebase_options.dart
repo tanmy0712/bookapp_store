@@ -41,54 +41,23 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyChlaIsTZxAYhuqnQCOpSjwpEfoSDknWb8',
-    appId: '1:224198280580:web:36858b07d77015cb69c9d1',
-    messagingSenderId: '224198280580',
-    projectId: 'cinemaappticket',
-    authDomain: 'cinemaappticket.firebaseapp.com',
-    databaseURL: 'https://cinemaappticket-default-rtdb.firebaseio.com',
-    storageBucket: 'cinemaappticket.appspot.com',
-    measurementId: 'G-CMD5ZQGP6R',
+   
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC6lYpa8zWIwaNI2GAw0sPPOZkpGhLgEW4',
-    appId: '1:224198280580:android:f0c3a6a22a966cc969c9d1',
-    messagingSenderId: '224198280580',
-    projectId: 'cinemaappticket',
-    databaseURL: 'https://cinemaappticket-default-rtdb.firebaseio.com',
-    storageBucket: 'cinemaappticket.appspot.com',
+ 
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA94l7Qz5h3i0UjPQrePeHTDv5_cgiVsB4',
-    appId: '1:224198280580:ios:5406c048ad241feb69c9d1',
-    messagingSenderId: '224198280580',
-    projectId: 'cinemaappticket',
-    databaseURL: 'https://cinemaappticket-default-rtdb.firebaseio.com',
-    storageBucket: 'cinemaappticket.appspot.com',
-    iosBundleId: 'com.example.libercopiaBookstoreApp',
+
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA94l7Qz5h3i0UjPQrePeHTDv5_cgiVsB4',
-    appId: '1:224198280580:ios:5406c048ad241feb69c9d1',
-    messagingSenderId: '224198280580',
-    projectId: 'cinemaappticket',
-    databaseURL: 'https://cinemaappticket-default-rtdb.firebaseio.com',
-    storageBucket: 'cinemaappticket.appspot.com',
-    iosBundleId: 'com.example.libercopiaBookstoreApp',
+  
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyChlaIsTZxAYhuqnQCOpSjwpEfoSDknWb8',
-    appId: '1:224198280580:web:31ef4757c3db420569c9d1',
-    messagingSenderId: '224198280580',
-    projectId: 'cinemaappticket',
-    authDomain: 'cinemaappticket.firebaseapp.com',
-    databaseURL: 'https://cinemaappticket-default-rtdb.firebaseio.com',
-    storageBucket: 'cinemaappticket.appspot.com',
-    measurementId: 'G-BSCRWX2FQZ',
+ 
   );
 
 }
